@@ -1,2 +1,2 @@
-# PrepCourse-Henry
-este es un repositorio de prueba de prepcourse de henry
+ESTE PROYECTO ESUN APRUEBA DE COMO CREAR Y CLONAR UN REPOSITORIO DESDE GITHAB
+
